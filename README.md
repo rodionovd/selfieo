@@ -1,6 +1,7 @@
 Tiny lib that dumps in-memory image of the current process to a file.  
 
 > Just a PoC, untested and dirty, so feel free not to use it in production.  
+> Aaand it doesn't support 32 bit targets (pull requests are welcome, though).   
 
 ### Usage
 
